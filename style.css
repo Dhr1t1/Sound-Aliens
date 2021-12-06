@@ -1,0 +1,38 @@
+body{
+    font-family: 'Outfit', sans-serif;
+    background-color: palevioletred;
+}
+
+.header_div{
+    color: rgb(221, 32, 32);
+    background-color: white;
+}
+
+.header_div p{
+    letter-spacing:2px;
+    color: gray;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: 'Oswald', sans-serif;
+}
+
+.main_div button{
+    margin-top:30px;
+    width: 130px;
+    letter-spacing: 3px;
+    font-weight: bolder;
+    font-family: 'Heebo', sans-serif;
+}
+
+.right_footer{
+    background-color: white;
+    bottom: 0;
+    text-align: center;
+    color: gray;
+    width: 100%;
+    position: fixed;
+    font-size: 18px;
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(75, 68, 68) ;
+    font-size: 20px;
+}
